@@ -9,3 +9,5 @@
 * 无限列表
 * 下拉刷新、上拉加载
 
+
+![展示图](https://github.com/god-long/Flutter_Douban_Movie/blob/master/flutter_movie.gif)
